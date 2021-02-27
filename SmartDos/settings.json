@@ -1,0 +1,9 @@
+{
+    "cookie": "",
+    "user_agent": "Mozilla/5.0 (compatible; YandexCalendar/1.0; +http://yandex.com/bots)",
+    "methoud": "get",
+    "url": "https://www.google.com:443",
+    "port": "443",
+    "data": "",
+    "timeout": 1
+}
